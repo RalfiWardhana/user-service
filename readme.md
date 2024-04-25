@@ -1,4 +1,4 @@
-Untuk mulai menjalankan apilikasi 
+Untuk mulai menjalankan service users
 
 - Import 2 file SQL yaitu absent_abesnts.sql dan absent_users.sql ke database MySQL
 - Sesuaikan konfigurasi MySQL di path src/configs/database.js
